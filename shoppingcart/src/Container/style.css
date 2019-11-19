@@ -1,0 +1,10 @@
+
+.img_div {
+    display: inline-block;
+    margin:10px;
+    border-bottom: 1px solid grey;
+    position: unset;
+}
+.main_div {
+    margin-top: 60px;
+}

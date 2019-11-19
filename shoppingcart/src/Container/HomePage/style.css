@@ -1,0 +1,14 @@
+.banner {
+    margin-top:70px;
+    margin-bottom: 20px;
+}
+.images {
+    height:300px;
+    width:500px;
+}
+.image_div {
+    display: inline-block;
+    background-color: antiquewhite;
+    margin:10px;
+    position: unset;
+}
